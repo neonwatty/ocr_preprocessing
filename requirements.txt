@@ -1,0 +1,10 @@
+pillow
+pytesseract
+opencv-python
+numpy
+matplotlib
+deskew
+torch
+transformers
+einops
+streamlit
