@@ -15,6 +15,7 @@ import io
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
+st.title("OCR preprocessing playground")
 
 with st.container(border=True):
     checks = st.columns(4)
