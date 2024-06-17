@@ -14,7 +14,7 @@ import io
 
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
-
+st.set_page_config(page_title="OCR preprocessing playground")
 st.title("OCR preprocessing playground")
 
 with st.container(border=True):
