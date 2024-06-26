@@ -62,14 +62,14 @@ if thresh_io:
         with col4.container(border=True):
             st.image(img, output_format="auto", caption="normalized image")
 
-    # denoise
-    if denoise:
-        img = denoise_img(img)
-
     # gray_img
     img = grayscale_img(img)
     with col5.container(border=True):
         st.image(img, output_format="auto", caption="grayscale image")
+        
+    # denoise
+    if denoise:
+        img = denoise_img(img)
 
     # deskew
     if deskew:
