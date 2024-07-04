@@ -1,8 +1,8 @@
 <a href="https://colab.research.google.com/github/jermwatt/ocr_preprocessing/blob/main/ocr_preprocessing_walkthrough.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-# ocr preprocessing app, walkthrough, and demo
+# OCR preprocessing app, walkthrough, and demo
 
-Learn about and explore necessary pre-processing steps that make Optical Character Recognition (ocr) work properly in practice.
+Explore necessary pre-processing steps that make Optical Character Recognition (ocr) work properly in practice.
 
 This repository contains code, a walkthrough notebook (`ocr_preprocessing_walkthrough.ipynb`), and streamlit demo app for playing around with common ocr pre-processing steps, and seeing their resulting effects on ocr quality.
 
