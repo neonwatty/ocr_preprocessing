@@ -2,7 +2,7 @@
 
 # OCR preprocessing app, walkthrough, and demo
 
-Explore necessary pre-processing steps that make Optical Character Recognition (ocr) work properly in practice.
+Explore the commonly overlooked pre-processing steps that help make Optical Character Recognition (OCR) models work properly in practice.
 
 This repository contains code, a walkthrough notebook (`ocr_preprocessing_walkthrough.ipynb`), and streamlit demo app for playing around with common ocr pre-processing steps, and seeing their resulting effects on ocr quality.
 
