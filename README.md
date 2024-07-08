@@ -1,4 +1,5 @@
-<a href="https://colab.research.google.com/github/jermwatt/ocr_preprocessing/blob/main/ocr_preprocessing_walkthrough.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/jermwatt/ocr_preprocessing/blob/main/ocr_preprocessing_walkthrough.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>   <a href="https://www.youtube.com/watch?v=E9bbgJUyGQs" target="_parent"><img src="https://badges.aleen42.com/src/youtube.svg" alt="Youtube"/></a>
+
 
 # OCR preprocessing app, walkthrough, and demo
 
